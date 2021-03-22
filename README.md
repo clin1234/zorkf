@@ -9,9 +9,9 @@ One liner: `gfortran -Wall -Wextra -pedantic <source files>`
 
 ## TODO
 
-- [] Implement resource file system (customizable commands, responses, items, etc.)
-- [] Use CI to produce build artifacts on other modern Fortran compilers
-- [] Add more snarkiness?
+* [ ] Implement resource file system (customizable commands, responses, items, etc.)
+* [ ] Use CI to produce build artifacts on other modern Fortran compilers
+* [ ] Add more snarkiness?
 
 ## Copyright
 
